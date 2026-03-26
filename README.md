@@ -3,19 +3,35 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js" height="60" />
+
+  <br/><br/>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="60" />
+
+  <br/><br/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="60" />
+
+  <br/><br/>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres" height="60" />
+
+  <br/><br/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=gcp,docker,linux,git" height="60" />
+
+  <br/><br/>
+
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="60" />
+
 </div>
 
 ###
