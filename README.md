@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,react,fastapi,gcp" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,docker,gcp" height="60" />
 </div>
 
 ###
