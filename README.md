@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,react,fastapi,gcp" height="60" />
 </div>
