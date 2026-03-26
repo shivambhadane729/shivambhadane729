@@ -3,35 +3,7 @@
 ###
 
 <div align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js" height="60" />
-
-  <br/><br/>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="60" />
-
-  <br/><br/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="60" />
-
-  <br/><br/>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres" height="60" />
-
-  <br/><br/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=gcp,docker,linux,git" height="60" />
-
-  <br/><br/>
-
-  <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="60" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,react,fastapi,gcp" height="60" />
 </div>
 
 ###
