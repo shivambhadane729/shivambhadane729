@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
+<div align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Shivam Banner" width="100%" />
+</div>
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,docker,gcp" height="60" />
