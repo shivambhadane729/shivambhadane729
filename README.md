@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Shivam Banner" width="100%" />
+  <img src="Screenshot 2026-05-01 223953.png" alt="Shivam Banner" width="100%" />
 </div>
 ###
 <div align="center">
