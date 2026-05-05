@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<br>
+
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -43,24 +43,4 @@
     height="170"
   />
 </div>
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/shivambhadane729/shivambhadane729/output/pacman-contribution-graph-dark.svg">
-
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/shivambhadane729/shivambhadane729/output/pacman-contribution-graph-dark.svg">
-
-    <img 
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/shivambhadane729/shivambhadane729/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</div>
-
-<br>
-
-<h3 align="center">⚡ Building • Learning • Leading ⚡</h3>
+<br> 
